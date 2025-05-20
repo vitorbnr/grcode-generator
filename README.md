@@ -12,9 +12,7 @@ Uma aplicação Spring Boot que gera códigos QR e os armazena na AWS S3. Este p
         - [Desenvolvimento Local](#desenvolvimento-local)
         - [Implantação com Docker](#implantação-com-docker)
     - [Configuração do AWS S3](#configuração-do-aws-s3)
-- [Fluxo da Aplicação](#fluxo-da-aplicação)
 - [Endpoints da API](#endpoints-da-api)
-- [Licença](#licença)
 
 ## Como Usar
 
