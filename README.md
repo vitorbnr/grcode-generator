@@ -80,8 +80,6 @@ AWS_BUCKET_NAME=nome_do_seu_bucket
 2. Atualize a variável `AWS_BUCKET_NAME` no seu arquivo `.env` ou no comando Docker
 3. Certifique-se de que suas credenciais da AWS tenham permissões adequadas para acessar o bucket S3
 
-## Fluxo da Aplicação
-
 
 ## Endpoints da API
 
